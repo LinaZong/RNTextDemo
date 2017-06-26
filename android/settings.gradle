@@ -1,0 +1,3 @@
+rootProject.name = 'CText'
+
+include ':app'
